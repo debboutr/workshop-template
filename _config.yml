@@ -1,4 +1,4 @@
-#------------------------------------------------------------
+n#------------------------------------------------------------
 # Values for this workshop.
 #------------------------------------------------------------
 
@@ -6,7 +6,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Learn To Code"
 
 # Contact email address.
 email: lessons@software-carpentry.org
